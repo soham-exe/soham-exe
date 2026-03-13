@@ -1,5 +1,7 @@
-## Hi there 👋
+![My animated GIF](./hello.gif)
 
+## Hello this is me Soham!
+# Thankyou for checking my code archive
 <!--
 **soham-exe/soham-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
