@@ -1,16 +1,7 @@
 ![My animated GIF](./hello.gif)
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<b>👋 Hey there, this is Soham!</b>
-</td>
-<td width="50%" align="center">
-<kbd>Status: Compiling (3rd Year Comp-Eng)</kbd>
-</td>
-</tr>
-</table>
-
+<h1>👋 Hey there, this is Soham!</h1>
+<h3>Status: Compiling (3rd Year Comp-Eng)</h3>
 <br>
 
 <table width="100%">
